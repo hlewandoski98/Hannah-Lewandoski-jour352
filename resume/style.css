@@ -1,3 +1,5 @@
+/*Main Style*/
+
 BODY {
 
   font-family: 'Open Sans', arial, sans-serif;
@@ -25,7 +27,7 @@ h2 {
 font-size: 1.5em;
 text-transform: uppercase;
 background-color: #33485e
-color: #fff
+color: #fff;
 
 
 }
