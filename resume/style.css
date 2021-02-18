@@ -1,4 +1,4 @@
-/*Main Style*/
+/*Styles for my Resume*/
 
 BODY {
 
@@ -8,6 +8,7 @@ BODY {
   font-weight: 400;
 
 }
+/*my name*/
 h1 {
   font-size: 3em;
   text-transform: uppercase;
@@ -15,14 +16,14 @@ h1 {
   color: #33485e;
 
 }
-
+/*title*/
 strong {
   color: #33485e;
   text-transform: uppercase;
   font-size: 1.5em;
 
 }
-
+/*subject lines*/
 h2 {
 font-size: 1.5em;
 text-transform: uppercase;
@@ -30,4 +31,24 @@ background-color: #33485e;
 color: #fff;
 
 
+}
+/*job titles*/
+h3 {
+  font-weight: 300;
+  font-size: 1.5em;
+}
+/*employer*/
+h4 {
+  font-weight: 400;
+  font-size: 1.5em;
+}
+/*dates*/
+h5{
+  font-weight: 400;
+  font-size: 1em;
+  font-style: italic;
+}
+/*lists*/
+li {
+  font-size: 1em;
 }
