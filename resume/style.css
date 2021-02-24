@@ -9,11 +9,15 @@ BODY {
 
 }
 /*my name*/
-h1 {
+#name {
   font-size: 3em;
   text-transform: uppercase;
-  text-align: center;
+  text-align:center;
   color: #33485e;
+  border-bottom: 1px solid #33485e;
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto;
 
 }
 /*title*/
@@ -24,12 +28,12 @@ strong {
 
 }
 /*subject lines*/
-h2 {
+.sectionheader {
 font-size: 1.5em;
 text-transform: uppercase;
 background-color: #33485e;
 color: #fff;
-
+font-weight: 400px;
 
 }
 /*job titles*/
