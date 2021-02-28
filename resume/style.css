@@ -44,10 +44,11 @@ padding-bottom: 50px;
   font-size: 1.5em;
   font-weight: 600;
   text-align: center;
-  top-margin: 20px;
-  bottom-margin: 0;
-  right-margin: 0;
-  left-margin: 0;
+  margin-top: 20px;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-left: 0;
+
 
 }
 /*subject lines*/
@@ -101,16 +102,16 @@ min-width: 300px;
 /*lists*/
 #degrees {
   font-size: 1em;
-  top-margin: 5px;
-  bottom-margin: 0;
-  right-margin: 0;
-  left-margin: 0;
+  margin-top: 5px;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-left: 0;
 
 }
 .top {
   width: 60%;
   min-width: 300px;
   margin:0 auto;
-  bottom-margin: 30px;
+  margin-bottom: 30px;
   text-align: center;
 }
