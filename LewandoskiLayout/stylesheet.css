@@ -1,0 +1,135 @@
+#content {
+  width: 900px;
+  margin: 0 auto;
+
+
+}
+img {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+
+}
+h1 {
+  font-family: Helvetica, sans-serif;
+  font-size: 3em;
+  font-style: italic;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+
+
+
+
+}
+
+
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+}
+
+p {
+  font-family: Georgia, serif;
+  font-size: 13px;
+
+
+}
+#image1 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: Georgia, serif;
+  font-size: 13px;
+  font-style: bold;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+
+}
+
+#image2 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: Georgia, serif;
+  font-size: 13px;
+  font-style: bold;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+
+}
+
+#image3 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: Georgia, serif;
+  font-size: 13px;
+  font-style: bold;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+
+
+}
+
+header {
+  font-family: Helvetica, sans-serif;
+  font-size: 2em;
+  font-style: italic;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+
+}
+#graphic {
+
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: Georgia, serif;
+  font-size: 13px;
+  font-style: bold;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+
+}
+
+
+blockquote {
+  font-family: Georgia;serif;
+  font-size: 2em;
+  font-style: italic;
+  font-style: bold;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+
+}
+h2 {
+  font-family: Georgia;serif;
+  font-size: 1.25em;
+  font-style: italic;
+  font-style: bold;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+
+}
+
+h3 {
+  font-family: Georgia;serif;
+  font-size: 1em;
+  font-style: italic;
+  font-style: bold;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+
+}
