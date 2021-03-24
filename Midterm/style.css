@@ -1,0 +1,68 @@
+h1 {
+  font-family: Georgia; serif;
+  font-size: 3em;
+  font-style: italic;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+h2 {
+font-family: Georgia; serif;
+text-align: center;
+font-size: 1.5em;
+font-style: italic;
+}
+
+h3{
+font-family: Georgia; serif;
+text-align: center;
+font-size: 1.5em;
+
+}
+
+p {
+  font-family: Helvetica; arial; sans-serif;
+  font-size: 12px;
+
+}
+
+img {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%
+
+}
+
+#image1 {
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: Georgia, serif;
+  font-size: 13px;
+  font-style: bold;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  width: 70%;
+
+}
+
+
+#image2 {
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: Georgia, serif;
+  font-size: 13px;
+  font-style: bold;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  width: 70%;
