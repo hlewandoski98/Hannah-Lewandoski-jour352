@@ -36,8 +36,11 @@ h3{
 font-family: Georgia, serif;
 text-align: center;
 font-size: 1.5em;
+font-style: italic;
 
 }
+
+
 
 p {
   font-family: Helvetica, arial, sans-serif;
@@ -49,6 +52,7 @@ p {
   width: 70%;
 }
 
+/*This is the masthead of the page, and includes the "Sportsperson of the Year" title with a picture of Megan Rapinoe.*/
 img {
   display: block;
     margin-left: auto;
@@ -116,3 +120,33 @@ img {
       text-align: center;
       width: 30%;
     }
+
+h5 {
+      font-family: Georgia, serif;
+      text-align: center;
+      font-size: 1em;
+
+
+    }
+
+
+h4 {
+      color: #ff0000;
+      font-family: Georgia, serif;
+      font-size: 1.5em;
+      font-style: italic;
+      text-align: center;
+    }
+
+
+  blockquote {
+    font-family: Georgia, serif;
+    font-size: 1.5em;
+    font-style: italic;
+    font-style: bold;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    color: #ff0000;
+  }
