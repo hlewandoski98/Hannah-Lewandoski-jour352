@@ -1,5 +1,22 @@
-h1 {
+#story {
+align: center;
+
+}
+
+#byline {
+
   font-family: Georgia; serif;
+  font-size: 15px;
+  font-style: italic;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 70%;
+}
+
+h1 {
+  font-family: Georgia, serif;
   font-size: 3em;
   font-style: italic;
   text-align: center;
@@ -9,23 +26,27 @@ h1 {
 }
 
 h2 {
-font-family: Georgia; serif;
+font-family: Georgia, serif;
 text-align: center;
 font-size: 1.5em;
 font-style: italic;
 }
 
 h3{
-font-family: Georgia; serif;
+font-family: Georgia, serif;
 text-align: center;
 font-size: 1.5em;
 
 }
 
 p {
-  font-family: Helvetica; arial; sans-serif;
+  font-family: Helvetica, arial, sans-serif;
   font-size: 12px;
-
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 70%;
 }
 
 img {
@@ -66,3 +87,32 @@ img {
   font-weight: bold;
   text-align: center;
   width: 70%;
+}
+#image3 {
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: Georgia, serif;
+    font-size: 13px;
+    font-style: bold;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    width: 30%;
+  }
+  #image4 {
+      display: block;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 30px;
+      margin-bottom: 30px;
+      font-family: Georgia, serif;
+      font-size: 13px;
+      font-style: bold;
+      font-style: italic;
+      font-weight: bold;
+      text-align: center;
+      width: 30%;
+    }
