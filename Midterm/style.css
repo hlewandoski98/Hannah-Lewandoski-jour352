@@ -30,6 +30,7 @@ font-family: Georgia, serif;
 text-align: center;
 font-size: 1.5em;
 font-style: italic;
+text-decoration: underline;
 }
 
 h3{
@@ -121,6 +122,16 @@ img {
       width: 30%;
     }
 
+    #image5 {
+        display: block;
+       margin-left: auto;
+       margin-right: auto;
+       margin-top: 30px;
+        margin-bottom: 30px;
+
+        width: 70%;
+      }
+
 h5 {
       font-family: Georgia, serif;
       text-align: center;
@@ -131,11 +142,12 @@ h5 {
 
 
 h4 {
-      color: #ff0000;
+
       font-family: Georgia, serif;
       font-size: 1.5em;
       font-style: italic;
       text-align: center;
+      text-decoration: underline;
     }
 
 
@@ -150,3 +162,8 @@ h4 {
     width: 70%;
     color: #ff0000;
   }
+
+  ul {
+    text-align: center;
+    list-style-position: inside;
+}
