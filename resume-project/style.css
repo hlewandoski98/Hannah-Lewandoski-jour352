@@ -1,0 +1,102 @@
+/*Styles for my Resume*/
+
+img {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+
+}
+
+
+BODY {
+
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 1em;
+  color: #444;
+  font-weight: 400;
+
+}
+#container {
+width: 100%;
+max-width: 1200px;
+margin:0 auto;
+padding-bottom: 50px;
+
+
+}
+
+.menu {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  display: inline;
+  text-align: center;
+
+}
+
+
+/*subject lines*/
+.sectionheader {
+font-family: Helvetica, arial, sans-serif;
+font-size: 1.5em;
+text-transform: uppercase;
+background-color: #33485e;
+color: #fff;
+font-weight: 400px;
+margin-top: 20px;
+margin-bottom: 10px;
+margin-right: 0;
+margin-left: 0;
+width: 70%;
+min-width: 300px;
+
+
+}
+/*job titles*/
+/*changed h3 to jobtitle*/
+.jobtitle {
+  font-weight: 700;
+  font-size: 1.5em;
+
+}
+/*employer*/
+.organization {
+  font-weight: 400;
+  font-size: 1.25em;
+}
+/*dates*/
+.date {
+  font-weight: 400;
+  font-size: 1em;
+  font-style: italic;
+  margin-top: 2px;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-left: 0;
+}
+/*paragraph*/
+.description {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 0;
+  margin-left: 0px;
+}
+
+
+
+/*lists*/
+#degrees {
+  font-size: 1em;
+  margin-top: 5px;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-left: 0;
+
+}
+.top {
+  width: 60%;
+  min-width: 300px;
+  margin:0 auto;
+  margin-bottom: 30px;
+  text-align: center;
+}
