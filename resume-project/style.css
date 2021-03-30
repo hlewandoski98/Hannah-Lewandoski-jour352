@@ -8,6 +8,81 @@ img {
 
 }
 
+button {
+  background-color: #3086E5;
+  border: none;
+  color: white;
+  font-family: Helvetica;
+  padding: 14px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-radius: 12px;
+
+}
+.aboutme {
+  color: #3086E5;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  align: center;
+  font-size: 1.5em;
+  width: 50%;
+  font-style: italic;
+}
+
+
+.photowork {
+  color: #3086E5;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  align: center;
+  font-size: 1.5em;
+  width: 50%;
+  font-style: italic;
+}
+
+.videowork {
+  color: #3086E5;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  align: center;
+  font-size: 1.5em;
+  width: 50%;
+  font-style: italic;
+}
+
+.column {
+  float: left;
+  width: 48%;
+  padding: 5px;
+  align: center;
+}
+
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.column2 {
+  float: left;
+  width: 48%;
+  padding: 5px;
+  align:center;
+}
+
+
+.row2::after {
+  content: "";
+  clear: both;
+  display: table;
+  align: center;
+}
+
 
 BODY {
 
@@ -15,6 +90,7 @@ BODY {
   font-size: 1em;
   color: #444;
   font-weight: 400;
+  letter-spacing: -0.05em;
 
 }
 #container {
@@ -40,8 +116,7 @@ padding-bottom: 50px;
 font-family: Helvetica, arial, sans-serif;
 font-size: 1.5em;
 text-transform: uppercase;
-background-color: #33485e;
-color: #fff;
+color: ##3086E5;
 font-weight: 400px;
 margin-top: 20px;
 margin-bottom: 10px;
@@ -57,7 +132,7 @@ min-width: 300px;
 .jobtitle {
   font-weight: 700;
   font-size: 1.5em;
-
+  color: #3086E5;
 }
 /*employer*/
 .organization {
@@ -99,4 +174,35 @@ min-width: 300px;
   margin:0 auto;
   margin-bottom: 30px;
   text-align: center;
+}
+
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 992px) {
+  .column {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .column2 {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 992px) {
+  .column2 {
+    width: 50%;
+  }
+}
+
+.menu {
+font-family: Helvetica, arial, sans-serif;
+font-size: 1em;
+color: #444;
+font-weight: 400;
+letter-spacing: -0.05em;
 }
